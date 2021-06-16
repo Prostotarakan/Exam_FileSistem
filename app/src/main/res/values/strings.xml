@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exam_FileSistem</string>
+
+    <string name="button_file1">Выбрать</string>
+
+    <string name="button_file1back">Изменить</string>
+
+    <string name="button_start">Поиск</string>
+
+    <string name="button_close">Закрыть</string>
+    <string name="button_back">Назад</string>
+    <string name="button_finish">Готово</string>
+
+</resources>
